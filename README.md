@@ -1,9 +1,10 @@
 <h1 align="center">Olá 👋 Eu sou Luiz</h1>
-<h3 align="center">Software Engineer | Android Developer | Java Backend | Web Developer</h3>
+<h3 align="center">Software Engineer | Android Developer | iOS Developer
 
 <p align="center">
-Desenvolvedor apaixonado por tecnologia, criação de produtos digitais e soluções reais.  
-Com experiência sólida em desenvolvimento Android nativo, backend Java e agora expandindo para aplicações web modernas.
+Desenvolvedor Mobile com mais de 5 anos de experiência em Android Nativo, atuando tanto na criação de aplicativos sob medida quanto em projetos de grande escala para empresas.  
+Experiência em vários tipos de apps, sendo ERPS, agendamentos, lojas e setor bancário, com atuação em produtos e integrações Open Finance, desenvolvendo soluções seguras, robustas e de alta performance.  
+Atualmente expandindo conhecimentos em iOS Nativo, com foco em entregar experiências mobile modernas e de alto nível.
 </p>
 
 ---
@@ -11,10 +12,11 @@ Com experiência sólida em desenvolvimento Android nativo, backend Java e agora
 ## 🚀 Sobre mim
 
 - 🎓 Formado em Engenharia de Software  
-- 💼 5 anos de experiência como Desenvolvedor Android Nativo  
+- 💼 5 anos de experiência como Desenvolvedor Android Nativo
+- 🍎 Atualmente ganhando experiência em desenvolvimento iOS Nativo
 - ☕ Pós-graduação em Desenvolvimento Java  
 - 🔐 Pós-graduação em Defesa e Segurança Cibernética  
-- 🌎 Atualmente expandindo conhecimentos em Web Development  
+- 🌎 Também tenho conhecimento em desenvolvimento web fullstack (Angular, SpringBoot)
 - 📱 Já publiquei aplicativos na Play Store  
 - 💡 Foco em criar produtos SaaS e soluções escaláveis
 
@@ -22,20 +24,14 @@ Com experiência sólida em desenvolvimento Android nativo, backend Java e agora
 
 ## 🛠️ Tecnologias
 
-### Mobile
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-
-### Backend
+### 📱 Mobile
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
-### Frontend
+### 🌐 Web
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ---
 
