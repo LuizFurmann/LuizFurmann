@@ -39,35 +39,17 @@ Com experiência sólida em desenvolvimento Android nativo, backend Java e agora
 
 ---
 
-## 📌 Projetos em Destaque
+## 🚀 Projetos em destaque
 
-### 🚗 Sistema de Agendamento para Barbearias
-Plataforma SaaS para gestão de clientes, agenda e serviços.
+<p align="center">
+<a href="https://github.com/SEU_USUARIO/nome-do-repo1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=nome-do-repo1&theme=tokyonight" />
+</a>
 
-🔹 Angular + Spring Boot + MySQL
-
----
-
-### 🅿️ Aplicativo de Estacionamento
-App Android com autenticação, reservas, localização e CRUD de estacionamentos.
-
-🔹 Kotlin + Firebase + Jetpack Compose
-
----
-
-### 🎮 Jogo Mobile - Forca
-Jogo Android publicado na Play Store com monetização via anúncios.
-
-🔹 Kotlin + AdMob
-
----
-
-### 🏭 Sistema Industrial de Ordens de Serviço
-Sistema de manutenção industrial com foco em ISO 9001.
-
-🔹 Java + Android + Banco de Dados
-
----
+<a href="https://github.com/SEU_USUARIO/nome-do-repo2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=nome-do-repo2&theme=tokyonight" />
+</a>
+</p>
 
 ## 📈 GitHub Stats
 
