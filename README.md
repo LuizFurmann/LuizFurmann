@@ -50,17 +50,16 @@ Atualmente expandindo conhecimentos em iOS Nativo, com foco em entregar experiê
 ## 📈 GitHub Stats
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=LuizFurmann&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFurmann&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 📫 Contato
 
-- LinkedIn: (seu link)
-- Email: (seu email)
-- Portfólio: Em construção 🚀
+- LinkedIn: [https://github.com/LuizFurmann](https://www.linkedin.com/in/luiz-furmann-8a6b101b6/)
+- Email: furmannluiz@gmail.com
 
 ---
 
