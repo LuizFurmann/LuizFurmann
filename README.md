@@ -37,21 +37,37 @@ Atualmente expandindo conhecimentos em iOS Nativo, com foco em entregar experiê
 
 ## 🚀 Projetos em Destaque
 
-<p align="center">
+<table>
+<tr>
 
-<a href="https://github.com/LuizFurmann/App-Loja-de-roupas">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizFurmann&repo=App-Loja-de-roupas&theme=tokyonight" />
-</a>
+<td width="50%" valign="top">
 
 <a href="https://github.com/LuizFurmann/BankApp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizFurmann&repo=BankApp&theme=tokyonight" />
+<img src="https://raw.githubusercontent.com/LuizFurmann/BankApp/main/banner.png" width="100%" />
+
+### 💳 Bank App
+
+Aplicativo bancário moderno desenvolvido em Kotlin com arquitetura MVVM.
+
 </a>
 
-<a href="https://github.com/LuizFurmann/To-Do-List---iOS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizFurmann&repo=To-Do-List---iOS&theme=tokyonight" />
+</td>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/LuizFurmann/App-Loja-de-roupas">
+<img src="https://raw.githubusercontent.com/LuizFurmann/App-Loja-de-roupas/main/banner.png" width="100%" />
+
+### 👕 Loja de Roupas
+
+Aplicativo Android de e-commerce desenvolvido em Kotlin.
+
 </a>
 
-</p>
+</td>
+
+</tr>
+</table>
 ---
 
 ## 📫 Contato
