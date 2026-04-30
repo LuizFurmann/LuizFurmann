@@ -58,7 +58,7 @@ Atualmente expandindo conhecimentos em iOS Nativo, com foco em entregar experiê
 
 ## 📫 Contato
 
-- LinkedIn: (https://www.linkedin.com/in/luiz-furmann-8a6b101b6/)
+- LinkedIn: https://www.linkedin.com/in/luiz-furmann-8a6b101b6/
 - Email: furmannluiz@gmail.com
 
 ---
