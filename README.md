@@ -45,9 +45,9 @@ Atualmente expandindo conhecimentos em iOS Nativo, com foco em entregar experiê
 <a href="https://github.com/LuizFurmann/BankApp">
 <img src="https://raw.githubusercontent.com/LuizFurmann/BankApp/main/banner.png" width="100%" />
 
-### 💳 Agendly - Controle de agendamentos
+### 💳 Bank App
 
-Sistema de agendamentos para salções.
+Aplicativo bancário moderno desenvolvido em Kotlin com arquitetura MVVM.
 
 </a>
 
@@ -58,9 +58,9 @@ Sistema de agendamentos para salções.
 <a href="https://github.com/LuizFurmann/Agendly---Sistema-de-agendamentos">
 <img src="https://raw.githubusercontent.com/LuizFurmann/Agendly---Sistema-de-agendamentos/main/banner.png" width="100%" />
 
-### 💳 Bank App
+### 💳 Agendly - Controle de agendamentos
 
-Aplicativo bancário moderno desenvolvido em Kotlin com arquitetura MVVM.
+Sistema de agendamentos para salções.
 
 </a>
 
