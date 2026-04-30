@@ -35,25 +35,23 @@ Atualmente expandindo conhecimentos em iOS Nativo, com foco em entregar experiê
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos em Destaque
 
 <p align="center">
+
 <a href="https://github.com/LuizFurmann/App-Loja-de-roupas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=nome-do-repo1&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizFurmann&repo=repositorio-1&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/LuizFurmann/BankApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=nome-do-repo2&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizFurmann&repo=repositorio-2&theme=tokyonight" />
 </a>
+
+<a href="https://github.com/LuizFurmann/To-Do-List---iOS">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizFurmann&repo=repositorio-3&theme=tokyonight" />
+</a>
+
 </p>
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=LuizFurmann&show_icons=true&theme=tokyonight&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFurmann&layout=compact&theme=tokyonight"/>
-</p>
-
 ---
 
 ## 📫 Contato
