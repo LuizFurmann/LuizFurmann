@@ -46,6 +46,19 @@ Atualmente expandindo conhecimentos em iOS Nativo, com foco em entregar experiê
 <a href="https://github.com/LuizFurmann/BankApp">
 <img src="https://raw.githubusercontent.com/LuizFurmann/BankApp/main/banner.png" width="100%" />
 
+### 💳 Bank App
+
+Aplicativo bancário moderno desenvolvido em Kotlin com arquitetura MVVM.
+
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/LuizFurmann/Agendly---Sistema-de-agendamentos">
+<img src="https://raw.githubusercontent.com/LuizFurmann/Agendly---Sistema-de-agendamentos/main/banner.png" width="100%" />
+
 ### 📅 Agendly
 
 Sistema web de agendamentos para salões, focado em praticidade e organização.
@@ -62,19 +75,6 @@ Sistema web de agendamentos para salões, focado em praticidade e organização.
 
 <a href="https://github.com/LuizFurmann/App-Loja-de-roupas">
 <img src="https://raw.githubusercontent.com/LuizFurmann/App-Loja-de-roupas/main/banner.png" width="100%" />
-
-### 💳 Bank App
-
-Aplicativo bancário moderno desenvolvido em Kotlin com arquitetura MVVM.
-
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<a href="https://github.com/LuizFurmann/Agendly---Sistema-de-agendamentos">
-<img src="https://raw.githubusercontent.com/LuizFurmann/Agendly---Sistema-de-agendamentos/main/banner.png" width="100%" />
 
 ### 👕 Loja de Roupas
 
