@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋 Eu sou Luiz</h1>
-<h3 align="center">Engenheiro de Software | Desenvolvedor Android & iOS nativo
+<h3 align="center">Engenheiro de Software | Desenvolvedor Android & iOS Nativo
 
 <p>
 Desenvolvedor Mobile com mais de 5 anos de experiência em Android Nativo, atuando tanto na criação de aplicativos sob medida quanto em projetos de grande escala para empresas.  
