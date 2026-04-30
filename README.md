@@ -11,13 +11,13 @@ Atualmente expandindo conhecimentos em iOS Nativo, com foco em entregar experiê
 
 ## 🚀 Sobre mim
 
-- 🎓 Formado em Engenharia de Software  
-- 💼 5 anos de experiência como Desenvolvedor Android Nativo
-- 🍎 Atualmente ganhando experiência em desenvolvimento iOS Nativo
+- 🎓 Graduação em Engenharia de Software
 - ☕ Pós-graduação em Desenvolvimento de sistemas com Java  
 - 🔐 Pós-graduação em Defesa e Segurança Cibernética  
-- 🌎 Também tenho conhecimento em desenvolvimento Web Fullstack
+- 💼 5 anos de experiência como Desenvolvedor Android Nativo
 - 📱 Já publiquei aplicativos na Play Store  
+- 🍎 Atualmente ganhando experiência em desenvolvimento iOS Nativo
+- 🌎 Também tenho conhecimento em desenvolvimento Web Fullstack
 - 💡 Foco em criar produtos SaaS e soluções escaláveis
 
 ---
