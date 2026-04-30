@@ -42,11 +42,11 @@ Com experiência sólida em desenvolvimento Android nativo, backend Java e agora
 ## 🚀 Projetos em destaque
 
 <p align="center">
-<a href="https://github.com/SEU_USUARIO/nome-do-repo1">
+<a href="https://github.com/LuizFurmann/App-Loja-de-roupas">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=nome-do-repo1&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/SEU_USUARIO/nome-do-repo2">
+<a href="https://github.com/LuizFurmann/BankApp">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=nome-do-repo2&theme=tokyonight" />
 </a>
 </p>
