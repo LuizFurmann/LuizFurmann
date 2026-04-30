@@ -38,6 +38,7 @@ Atualmente expandindo conhecimentos em iOS Nativo, com foco em entregar experiê
 ## 🚀 Projetos em Destaque
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -58,13 +59,17 @@ Aplicativo bancário moderno desenvolvido em Kotlin com arquitetura MVVM.
 <a href="https://github.com/LuizFurmann/Agendly---Sistema-de-agendamentos">
 <img src="https://raw.githubusercontent.com/LuizFurmann/Agendly---Sistema-de-agendamentos/main/banner.png" width="100%" />
 
-### 💳 Agendly - Controle de agendamentos
+### 📅 Agendly
 
-Sistema de agendamentos para salções.
+Sistema web de agendamentos para salões, focado em praticidade e organização.
 
 </a>
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -79,8 +84,14 @@ Aplicativo Android de e-commerce desenvolvido em Kotlin.
 
 </td>
 
+<td width="50%" valign="top">
+
+</td>
+
 </tr>
+
 </table>
+
 ---
 
 ## 📫 Contato
