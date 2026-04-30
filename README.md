@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋 Eu sou Luiz</h1>
 <h3 align="center">Engenheiro de Software | Desenvolvedor Android & iOS nativo
 
-<p align="center">
+<p>
 Desenvolvedor Mobile com mais de 5 anos de experiência em Android Nativo, atuando tanto na criação de aplicativos sob medida quanto em projetos de grande escala para empresas.  
 Experiência em vários tipos de apps, sendo ERPS, agendamentos, lojas e setor bancário, com atuação em produtos e integrações Open Finance, desenvolvendo soluções seguras, robustas e de alta performance.  
 Atualmente expandindo conhecimentos em iOS Nativo, com foco em entregar experiências mobile modernas e de alto nível.
