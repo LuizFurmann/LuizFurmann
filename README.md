@@ -106,7 +106,7 @@ Aplicativo bancário moderno desenvolvido em Swift.
 <td width="50%" valign="top">
 
 <a href="https://github.com/LuizFurmann/App-Loja-de-roupas">
-<img src="https://github.com/LuizFurmann/App-Loja-de-roupas/blob/69b48a4e028961cfa0df6530195b2ec107513006/banner.png" width="100%" />
+<img src="https://github.com/LuizFurmann/App-Loja-de-roupas/blob/dc8eaaebee48ae129ead300d30a2ff0f878c85e0/banner.png" width="100%" />
 
 ### 👕 Loja de Roupas
 
