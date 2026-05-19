@@ -87,8 +87,8 @@ Sistema web de agendamentos para salões, focado em praticidade e organização.
 
 <td width="50%" valign="top">
 
-<a href="https://github.com/LuizFurmann/BankApp">
-<img src="[https://raw.githubusercontent.com/LuizFurmann/BankApp/main/bannerios.png](https://github.com/LuizFurmann/BankAppIOS/blob/69b48a4e028961cfa0df6530195b2ec107513006/banner.png)" width="100%" />
+<a href="https://github.com/LuizFurmann/BankAppIOS">
+<img src="https://github.com/LuizFurmann/BankAppIOS/blob/69b48a4e028961cfa0df6530195b2ec107513006/bannerios.png" width="100%" />
 
 ### 💳 Bank App iOS
 
